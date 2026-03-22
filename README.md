@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Tanmay 👋
 
-<!--
-**tanmay-ctrl/tanmay-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a student with a background in computer science — currently diving deep into the world of programming and web development. I love building new tech projects and learning new programming languages. 
 
-Here are some ideas to get you started:
+### 🚀 A Little About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 I’m currently learning and building projects using **Html**, **CSS**, **JavaScript**, **Python**,**C**, **MySQL**.
+* 🏆 I regularly participate in  Hackathons and am always looking for new challenges to test my skills. 
+* 📫 Let's connect: You can find me on [LinkedIn](https://www.linkedin.com/in/tanmay-thakur-2b412321a/) or see my work at [github.com/tanmay-ctrl](https://github.com/tanmay-ctrl).
+
+### 💻 Tech Stack & Tools
+
+* **Languages:** C, Python, JavaScript, HTML, CSS
+* **Libraries & Frameworks:** React JS
+* **Databases:** SQL
+
+### ⚡ Outside of Coding
+
+When I am away from my keyboard, I am usually:
+* 🍳 travelling or exploring new restaurants in the city.
+* 🎮 Playing single-player, story-driven games, online multiplayer games.
+
+---
+⭐️ *Thanks for stopping by!* ```
