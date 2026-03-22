@@ -34,4 +34,4 @@ When I am away from my keyboard, I am usually:
 * 🎮 Playing single-player, story-driven games, and online multiplayer games.
 
 ---
-⭐️ *Thanks for stopping by!* ```
+⭐️ *Thanks for stopping by!*
